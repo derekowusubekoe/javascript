@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.shell.osx": "state",
+    "terminal.integrated.shellArgs.osx": [
+        "activate",
+        "--confirm-exit-on-error"
+    ]
+}
