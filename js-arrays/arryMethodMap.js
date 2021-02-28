@@ -31,7 +31,6 @@ Advanced Array Methods
 
 Advance Array Method: Map
 Iterates through an array and performs a given callback function on every item in the array
-
 */
 
 // Using the for loop approach
