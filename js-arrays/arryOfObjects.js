@@ -32,7 +32,6 @@ It's common practice to give each object in an array of objects a unique ID as o
 const chocDesserts2 = desserts.filter(dessert => dessert.flavor === "chocolate");
 console.log(chocDesserts2);
 
-
 //use reduce to total up the cost of every dessert object in the array
 const totalCost = desserts.reduce((total, dessert) => total + dessert.cost, 0);
 /*
